@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813485236881",
+    "project_id": "fire-cf45d",
+    "storage_bucket": "fire-cf45d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813485236881:android:190c45d7bf1963d4421530",
+        "android_client_info": {
+          "package_name": "com.example.ai_helper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vFyS1z-OGmY8jKq9azZUP4aCqWXnf-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
